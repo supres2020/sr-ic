@@ -3,5 +3,6 @@ numpy==1.26.4
 opencv-python-headless==4.9.0.80
 scikit_learn==1.4.1.post1
 streamlit==1.32.2
+torch==2.1.2
 tensorflow==2.16.1
 tensorflow_hub==0.16.1
